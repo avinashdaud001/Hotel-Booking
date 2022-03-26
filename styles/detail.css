@@ -1,0 +1,89 @@
+.hotel-details{
+    height: 400px;
+    width: 400px;
+    margin: 2% 4% 0%;
+}
+
+
+
+/* #content > * {
+    margin-left: 4%;
+} */
+
+#form{
+    margin: 0% 4% 1%;
+}
+
+#description {
+    margin: 1% 4% 2%;
+}
+#content img{
+    height: 300px;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+table{
+    border:3px solid black;
+    width:100%;
+    border-collapse: collapse;
+}
+table td{
+    border:3px solid black;
+   text-align: center;
+   border-collapse: collapse;
+   
+}
+#box{
+    line-height: 26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right:20px;
+    margin-bottom: 20px;
+  /* hhxgfh */
+}
+.checked {
+    color: orange;
+  }
+#form input{
+    height: 22px;
+    width: 190px;
+    margin-left: 35px;
+
+
+}
+#form button{
+    padding:5px;
+}
+#description h6 h5{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.w3-display-left{
+             float: left;
+             position: relative;
+ 
+   
+ }
+ .w3-display-right{
+  
+    margin-left: 397px;
+    position: relative;
+    
+
+   
+
+ }
+.slides button{
+     margin-top: 120px;
+  position: absolute;
+  
+    
+ }
+ .slides{
+      margin-left:70px;
+   
+    margin-bottom: 0px; 
+    
+ }

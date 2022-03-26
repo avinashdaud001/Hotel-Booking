@@ -1,0 +1,85 @@
+#hotel-payment {
+    background-color: rgb(132,136,139);
+    width: 50%;
+    /* height: 20%; */
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    height: 300px;
+}
+.hotel-payment {
+    margin:2%;
+    margin-left: 300px;
+    width: 52%;
+    /* height: 30%; */
+    background-color: rgb(208, 216, 219);
+/* position: inline; */
+display:flex;
+
+
+}
+.hotel-payment > p {
+    margin-left: inherit;
+}
+.hotel-payment p h3 {
+    text-decoration: none;
+    color: black;
+    display:contents;
+    float:bottom;
+    line-height: 35px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.hotels{
+    height: 180px;
+    width: 220px;
+}
+.data{
+    margin-left: 35px;
+    margin-top: 20px;
+}
+
+
+
+  
+
+
+#customer-details {
+    margin: 2%;
+}
+/* 
+#bill-details {
+    border: 1px solid black;
+    margin: 2%;
+    border-radius: 5px;
+    padding: 1% 2%;
+} */
+/* hxfh */
+#customer-details {
+    border: 1px solid black;
+    margin: 3%;
+    border-radius: 5px;
+    padding: 1% 2%;
+   display:flex;
+   margin-bottom: 200px;
+   background-color:rosybrown;
+}
+.A{
+    margin-left: 120px;
+}
+.B{
+    margin-left: 120px;
+}
+.C{
+    margin-left: 400px;
+    
+}
+img {
+    height: 500px;
+    width: 500px;
+}
+#pay a{
+    text-decoration: none;
+    color:black;
+    margin-left: 100px;
+}

@@ -1,0 +1,46 @@
+.hotels-list {
+    margin:2%;
+    margin-left: 100px;
+    width: 35%;
+  
+    background-color: rgb(208, 216, 219);
+ 
+display: inline-flex;
+/* mgj */
+
+}
+.hotels-list:hover{
+  background-color: rgb(209, 145, 175);
+}
+ 
+
+.hotels-list > p {
+    margin-left: inherit;
+}
+.detail{
+    text-align: center;
+text-decoration: none;
+}
+.detail a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(148, 148, 211);
+    
+}
+/* .detail a:hover{
+    opacity: 1;
+    color: rgb(214, 83, 142);
+    scale: 1.1; 
+} */
+.hotels-list p{
+    text-decoration: none;
+    color: black;
+    display:flex;
+    float:right;
+    line-height: 25px;
+    margin-left: 20px;
+}
+.checked {
+    color: orange;
+  }

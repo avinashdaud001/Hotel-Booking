@@ -69,9 +69,11 @@ display:flex;
 }
 .B{
     margin-left: 120px;
+    margin-top: -20px;
 }
 .C{
-    margin-left: 400px;
+    margin-left: 450px;
+    margin-top: -50px;
     
 }
 img {
